@@ -1,0 +1,153 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap'); 
+section{
+	display:flex;
+}
+.class1{
+	margin-left:80px;
+	width:90%;
+}
+.class1 h6{
+	CoLor:blue;
+	background-color:#f3f2f2;
+	padding:10px;
+	width:60%;
+	font-family:"rale way" 
+}
+.class1 h1{
+	font-size:45px;
+	CoLor:black;
+}
+.class1 h2{
+	CoLor:blue;
+	font-size:40px;
+}
+.class1{
+	CoLor:gray;
+	font-size:15px;
+	font-family: 'Open-sans', sans-serif;
+}
+.btn1{
+	background-color:blue;
+	padding:12px 30px;
+	CoLor:white;
+	border-radius:5px;
+	border:none;
+}
+.btn2{
+	background-color:white;
+	border:1px solid grey;
+	padding:12px 30px; 
+	border-radius:5px;
+	
+}
+.slide{
+	display:flex;
+}
+.slide2{
+	display:flex;
+}
+.slide img{
+	width:75%;
+	margin-left:100px;
+}
+.slide2 img{
+	width:40%;
+	margin-left:100px;
+	margin-top:80px;
+}
+.slide2{
+	margin-top:40px;
+}
+.class2{
+	margin-top:20px;
+}
+.class2 img{
+	box-shadow:2px 0px 7px 0px grey;
+	border-radius:10px;
+}
+.class2 i{
+	color:white;
+	background-color:blue;
+	padding:15px;
+	border-radius:5px;
+	position:absolute;
+}
+.img1 i{
+	margin-left: 254px;
+    margin-top: -20px;
+}
+.img2{
+	margin-left:60px;
+}
+.img2 i{
+	margin-left:270px;
+	margin-top:188px;
+}
+
+.img3 i{
+	margin-left:280px;
+	margin-top:120px;
+}
+.img4 i{
+	margin-left:25rem;
+	margin-top:65px;
+}
+.img5 i{
+	    margin-left: -22rem;
+    margin-top: -82px;
+}
+.img3 img{
+	height:200px;
+    height: 228px;
+    width: 150%;
+    margin-top: 0px;;
+}
+.img4 img{
+	margin-left:300px;
+}
+.slide::after{
+	    content: " ";
+    height:186px;
+    width: 56px;
+    position: absolute;
+    border: 3px dashed #1d32cb;
+    margin-left: 299px;
+    border-bottom: none;
+    border-left: none;
+}
+.img2::after{
+	    content: " ";
+    height: 186px;
+    margin-top: 45px;
+    width: 56px;
+    border-bottom: none;
+    margin-left: 11px;
+    position: absolute;
+    border-left: 3px dashed #1d32cb;
+    border-top: 3px dashed #1d32cb;
+}
+.img1::after{
+	content: " ";
+    height: 151px;
+    border-left: none;
+    margin-top: -21px;
+    width: 207px;
+    border-bottom: none;
+    margin-left: 358px;
+    position: absolute;
+    border-left: 3px dashed #425fc9;
+	border-top: 3px dashed #425fc9;
+}
+.img3::after{
+    content: " ";
+    height: 146px;
+    border-left: none;
+    margin-top: -139px;
+    width: 64px;
+    border-bottom: none;
+    margin-left: 358px;
+    position: absolute;
+    border-top: 3px dashed  #425fc9;
+}
+	
